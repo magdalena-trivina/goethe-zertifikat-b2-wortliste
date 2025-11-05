@@ -3,7 +3,7 @@
 ## ✨ Overview
 - 📚 These are learning resources that help me prepare for the **Goethe B2 exam**.  
 - 🗂️ It’s a list of vocabularies I gathered from several great sources.  
-- ⚡ It contains **more than 1000 words!** — perfect for speeding up your learning process.  
+- ⚡ It contains **more than 2000 words!** — perfect for taking your learning to the next level!  
 - 🐍 A **Python script** is also available to generate MP3 files, so you can **listen to the vocabularies like a podcast**. 🎶  
 
 ---
